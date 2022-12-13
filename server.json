@@ -23,6 +23,22 @@
       "category": "Alimentação",
       "price": 14000,
       "createdAt": "2022-12-12T12:00:05.298Z"
+    },
+    {
+      "description": "Teste",
+      "type": "income",
+      "category": "Teste",
+      "price": 1000,
+      "createdAt": "2022-12-13T18:57:41.307Z",
+      "id": 4
+    },
+    {
+      "description": "as",
+      "type": "outcome",
+      "category": "as",
+      "price": 1,
+      "createdAt": "2022-12-13T19:13:56.949Z",
+      "id": 5
     }
   ]
 }
